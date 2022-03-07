@@ -1,11 +1,9 @@
 Banks beware, Amazon and Walmart are cracking the code for finance
-
 LONDON, Sept 17 (Reuters) - Anyone can be a banker these days, you just need the right code.
 
 Global brands from Mercedes and Amazon (AMZN.O) to IKEA and Walmart (WMT.N) are cutting out the traditional financial middleman and plugging in software from tech startups to offer customers everything from banking and credit to insurance.
 
 For established financial institutions, the warning signs are flashing.
-
 So-called embedded finance - a fancy term for companies integrating software to offer financial services - means Amazon can let customers "buy now pay later" when they check out and Mercedes drivers can get their cars to pay for their fuel.
 
 To be sure, banks are still behind most of the transactions but investors and analysts say the risk for traditional lenders is that they will get pushed further away from the front end of the finance chain.
@@ -15,7 +13,6 @@ And that means they'll be further away from the mountains of data others are hoo
 "Embedded financial services takes the cross-sell concept to new heights. It's predicated on a deep software-based ongoing data relationship with the consumer and business," said Matt Harris, a partner at investor Bain Capital Ventures.
 
 "That is why this revolution is so important," he said. "It means that all the good risk is going to go to these embedded companies that know so much about their customers and what is left over will go to banks and insurance companies."
-
 WHERE DO YOU WANT TO PLAY?
 
 For now, many areas of embedded finance are barely denting the dominance of banks and even though some upstarts have licences to offer regulated services such as lending, they lack the scale and deep funding pools of the biggest banks.
@@ -44,6 +41,8 @@ Square is now worth $113 billion, more than Europe's most valuable bank, HSBC (H
 
 "Big banks and insurers will lose out if they don't act quickly and work out where to play in this market," said Simon Torrance, founder of Embedded Finance & Super App Strategies.
 
+Venture capital investment in embedded finance leaps
+Reuters Graphics
 YOU NEED A LOAN!
 
 Several other retailers have announced plans this year to expand in financial services.
@@ -85,3 +84,5 @@ And some are already fighting back.
 Citigroup (C.N) has teamed up with Google on bank accounts, Goldman Sachs (GS.N) is providing credit cards for Apple (AAPL.O) and JPMorgan is buying 75% of Volkswagen's payments business and plans to expand to other industries. read more 06:00:00
 
 "Connectivity between different systems is the future," said Shahrokh Moinian, head of wholesale payments, EMEA, at JPMorgan. "We want to be the leader."
+
+
